@@ -1,5 +1,7 @@
 # Issues del libro "Aprendiendo Git"
 
+Compra el libro en: https://leanpub.com/aprendiendo-git
+
 📖 Ayúdame a detectar los errores ortográficos, técnicos o de maquetación del libro "Aprendiendo Git".
 
 <a href='https://leanpub.com/aprendiendo-git'><img src='https://d2sofvawe08yqg.cloudfront.net/aprendiendo-git/s_featured?1628527844' width='250' /></a>
